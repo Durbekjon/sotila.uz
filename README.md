@@ -25,7 +25,7 @@ Welcome to **sotila.uz**, an innovative web marketplace application designed to 
 
 ## Technologies Used
 
-- Frontend: Angular, TypeScript, HTML, CSS
+- Frontend: React.js, TypeScript, HTML, CSS
 - Backend: NestJS, Node.js
 - Database: PostgreSQL
 - ORM: Prisma
@@ -47,5 +47,5 @@ Follow these instructions to set up and run sotila.uz locally.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/sotila.uz.git
+   git clone https://github.com/Durbekjon/sotila.uz.git
    ```
